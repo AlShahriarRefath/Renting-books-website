@@ -1,0 +1,97 @@
+.logo img {
+    width: 500px;
+    margin-left: 120px;
+    margin-top: 20px;
+    margin-right: -120px;
+}
+
+.upperpart {
+    display: flex;
+}
+
+.imp-bg {
+    background-color: #fceae8;
+}
+
+.panda-btn {
+    background-color: mediumorchid;
+    color: aliceblue;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+
+.links {
+    text-align: center;
+    justify-content: center;
+}
+
+.nav_bar {
+    display: flex;
+    /* position: absolute; */
+    right: 0;
+    padding-right: 60%;
+    /* margin-right: -80px; */
+}
+
+form {
+    margin: auto;
+    width: 50%;
+    border: 2px solid #ccc;
+    padding: 50px;
+    background: cadetblue;
+    /* background: #fff; */
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    flex-direction: column;
+
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+input {
+    display: block;
+    border: 2px solid #ccc;
+    width: 95%;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+label {
+    color: black;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.ABC {
+    float: right;
+    background: goldenrod;
+    padding: 10px 15px;
+    color: #fff;
+    border-radius: 5px;
+    margin-right: 10px;
+    border: none;
+}
+
+.front-images img {
+    width: 180px;
+    padding-top: 30px;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+}
+
+.small-img {
+    width: 400px;
+}

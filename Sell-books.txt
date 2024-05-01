@@ -1,0 +1,13 @@
+Selling books :
+
+Book name : A Good Girls Guide Murder
+Author name : Holly Jackson
+Catagory : Thriller
+
+Book name : One of us is lying
+Author name : Karen M. McManus
+Catagory : Mystry
+
+Book name : Maxican Gothic
+Author name : Silvia Moreno-Garcia
+Catagory : Horror
